@@ -1,5 +1,4 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_storage/firebase_storage.dart';
 
 import 'package:flutter/material.dart';
 
@@ -28,9 +27,9 @@ class _UserFreindsListScreenState extends State<UserFreindsListScreen> {
       // backgroundColor: Theme.of(context).backgroundColor,
       backgroundColor: Colors.amber[100],
       body: StreamBuilder(
-          stream: Firestore.instance
+          stream: FirebaseFirestore.instance
               .collection("users")
-              .document("000")
+              .doc("000")
               .collection("friends")
               .snapshots(),
           builder: (
@@ -41,7 +40,7 @@ class _UserFreindsListScreenState extends State<UserFreindsListScreen> {
               return Center(child: CircularProgressIndicator());
             } else {
               return ListView(
-                children: snapshot.data.documents.map((friend) {
+                children: snapshot.data.docs.map((friend) {
                   return Center(
                     child: Card(
                       shape: StadiumBorder(

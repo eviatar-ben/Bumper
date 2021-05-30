@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525963536994",
+    "project_id": "bumper-8144d",
+    "storage_bucket": "bumper-8144d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525963536994:android:9dae025f9a131a7afd3f3b",
+        "android_client_info": {
+          "package_name": "com.example.bumper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525963536994-uqh4osl2baqidvelejk2cc26v07tu324.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEI8kozW4hY15upW76ctN_0qu1oZwKpY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525963536994-uqh4osl2baqidvelejk2cc26v07tu324.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

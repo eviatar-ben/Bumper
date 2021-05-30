@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'UserPageScreen.dart';
 import 'UserFreindsListScreen.dart';
+import 'UserPageScreen.dart';
 import 'screen/AuthenticationScreen.dart';
 import 'widgets/WaitingWidget.dart';
 
@@ -58,7 +59,7 @@ class LandingPage extends StatelessWidget {
                     if (user == null) {
                       return AuthenticationScreen();
                     }
-                    return AuthenticationScreen();
+                    return UserPageScreen();
                   }
                   return WaitingWidget();
                 });

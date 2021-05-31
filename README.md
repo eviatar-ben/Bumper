@@ -6,8 +6,7 @@ intented for Leverage random and one-time encounters in your organization (work,
 # Get started
 
 project's platform: [Flutter](https://flutter.dev/docs/get-started/install) 
-
-programing language: [Dart](https://dart.dev/tutorials/server/get-started) - 
+programing language: [Dart](https://dart.dev/tutorials/server/get-started)
 
 The app uses a Google Firebase project.
 

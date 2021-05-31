@@ -1,11 +1,10 @@
+import 'package:bumper/screen/AuthenticationScreen.dart';
+import 'package:bumper/screen/StatusScreen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-import 'UserPageScreen.dart';
 import 'UserFreindsListScreen.dart';
-import 'UserPageScreen.dart';
-import 'screen/AuthenticationScreen.dart';
 import 'widgets/WaitingWidget.dart';
 
 void main() {
@@ -27,7 +26,7 @@ class MyApp extends StatelessWidget {
         // using 'routs' we bind between the route(name) to the class
         // to easly move to the other class(screen)
         AuthenticationScreen.routeName: (ctx) => AuthenticationScreen(),
-        UserPageScreen.routeName: (ctx) => UserPageScreen(),
+        StatusScreen.routeName: (ctx) => StatusScreen(),
         UserFreindsListScreen.routeName: (ctx) => UserFreindsListScreen(),
       },
     );
@@ -59,7 +58,7 @@ class LandingPage extends StatelessWidget {
                     if (user == null) {
                       return AuthenticationScreen();
                     }
-                    return UserPageScreen();
+                    return StatusScreen();
                   }
                   return WaitingWidget();
                 });

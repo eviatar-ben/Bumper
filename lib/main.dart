@@ -1,11 +1,10 @@
 import 'package:bumper/screen/AuthenticationScreen.dart';
 import 'package:bumper/screen/StatusScreen.dart';
+import 'package:bumper/screen/UserFreindsListScreen.dart';
+import 'package:bumper/widgets/WaitingWidget.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-
-import 'UserFreindsListScreen.dart';
-import 'widgets/WaitingWidget.dart';
 
 void main() {
   runApp(MyApp());

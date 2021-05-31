@@ -5,7 +5,7 @@ intented for Leverage random and one-time encounters in your organization (work,
 
 # Get started
 
-project's platform: flutter - https://flutter.dev/docs/get-started/install
+project's platform: flutter - [https://flutter.dev/docs/get-started/install](flutter)
 
 programing language: Dart - https://dart.dev/tutorials/server/get-started
 

@@ -8,13 +8,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:toggle_switch/toggle_switch.dart';
 
-class AuthenticationScreen extends StatefulWidget {
+class StatusScreen extends StatefulWidget {
   static const routeName = '/auth';
   @override
   _StatusScreen createState() => _StatusScreen();
 }
 
-class _StatusScreen extends State<AuthenticationScreen> {
+class _StatusScreen extends State<StatusScreen> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(home: Scaffold(

@@ -1,6 +1,7 @@
 # Bumper
 Interactive platform for friendly communication via user’s statuses.
-intented for Leverage random and one-time encounters in your organization (work, university etc..)
+
+Intented for Leverage random and one-time encounters in your organization (work, university etc..).
 
 
 # Get started

@@ -60,7 +60,6 @@ class _AuthenticationScreenState extends State<AuthenticationScreen> {
           'image_url': url,
         });
       }
-      ;
     } on PlatformException catch (err) {
       var message = 'An error occurred, pelase check your credentials!';
       print("error");

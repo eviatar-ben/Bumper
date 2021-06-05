@@ -3,7 +3,7 @@ Interactive platform for friendly communication via user’s statuses.
 
 Intented for Leverage random and one-time encounters in your organization (work, university etc..).
 
-![ProfileScreen](https://user-images.githubusercontent.com/82065601/120898094-1d77ff80-c632-11eb-808c-ba831179e6ee.jpeg | width=100)
+![ProfileScreen](https://user-images.githubusercontent.com/82065601/120898094-1d77ff80-c632-11eb-808c-ba831179e6ee.jpeg  =250x250)
 ![UsersFriendsScreen](https://user-images.githubusercontent.com/82065601/120898099-1fda5980-c632-11eb-83ef-30cb8e5ac4f6.jpeg)
 
 ![LoginScreen](https://user-images.githubusercontent.com/82065601/120898107-2537a400-c632-11eb-8e63-d337a8b5ed49.jpeg)

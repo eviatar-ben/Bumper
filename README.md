@@ -4,7 +4,7 @@ Interactive platform for friendly communication via user’s statuses.
 Intented for Leverage random and one-time encounters in your organization (work, university etc..).
 
 <p float="left">
-  <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/ProfileScreen.jpeg" width="200" height="400" />
+  <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/ProfileScreenWithImage.jpeg" width="200" height="400" />
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/UsersFriendsScreen.jpeg" width="200" height="400" />
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/LoginScreen.jpeg" width="200" height="400" />
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/LoginScreen2.jpeg" width="200" height="400" />

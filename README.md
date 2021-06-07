@@ -7,7 +7,7 @@ Intented for Leverage random and one-time encounters in your organization (work,
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/ProfileScreenWithImage.jpeg" width="200" height="400" />
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/UsersFriendsScreen.jpeg" width="200" height="400" />
   <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/LoginScreen.jpeg" width="200" height="400" />
-  <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/SignUpScreen.jpeg" width="200" height="400" />
+  <img src="https://github.com/eviatar-ben/Bumper/blob/master/images/SignUpScreen2.jpeg" width="200" height="400" />
 </p>
   
 
